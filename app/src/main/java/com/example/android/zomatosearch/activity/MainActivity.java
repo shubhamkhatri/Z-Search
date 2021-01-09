@@ -183,9 +183,8 @@ public class MainActivity extends AppCompatActivity {
                             for(Restaurant res: r){
                                 finalList.add(res);
                             }
-//abc
-                            //test
                         }
+                        //test 2
 
                         //Setting Adapter
                         RestaurantAdapter restaurantAdapter = new RestaurantAdapter(MainActivity.this, finalList);
